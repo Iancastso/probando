@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAABmdmZmZmZ2Z2Z3ZmZmZnZ3dmdmd2dmdndmZmZ3Z2ZmZmZmZndnZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmd2ZmZmZ3d2Z3ZnZ3Z3d3Zmdmdndnd2dmZmZ2d2d3d2ZmZnZ3ZmZmZmZmZmZmZmZmZmZmZmZmZmZ2Z2ZmZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
